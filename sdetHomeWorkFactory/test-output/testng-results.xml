@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T11:41:33 IST" name="Default suite" finished-at="2023-08-17T11:42:13 IST" duration-ms="40287">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T11:41:33 IST" name="Default test" finished-at="2023-08-17T11:42:13 IST" duration-ms="40287">
+      <class name="selenium.Day1_seleniumLearn">
+        <test-method signature="salesforce()[pri:0, instance:selenium.Day1_seleniumLearn@75437611]" started-at="2023-08-17T11:41:33 IST" name="salesforce" finished-at="2023-08-17T11:42:13 IST" duration-ms="40144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesforce -->
+      </class> <!-- selenium.Day1_seleniumLearn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

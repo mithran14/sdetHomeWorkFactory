@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="3" name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="devops.seleniumDockerTest">
+        <methods>
+          <include name="chromeTest"/>
+        </methods>
+      </class> <!-- devops.seleniumDockerTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test thread-count="3" name="Test 2(failed)" parallel="tests">
+    <classes>
+      <class name="devops.seleniumDockerTest2">
+        <methods>
+          <include name="chromeTest"/>
+        </methods>
+      </class> <!-- devops.seleniumDockerTest2 -->
+    </classes>
+  </test> <!-- Test 2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
