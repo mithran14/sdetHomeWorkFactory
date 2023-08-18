@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public class selenium_16_08_2023 {
+public class Sdet_16_08_2023_Selenium {
 	/*
 	 * Access the top menu => Results
 			//div[@class='primary-links']//following::span[contains(text(),'Results')]

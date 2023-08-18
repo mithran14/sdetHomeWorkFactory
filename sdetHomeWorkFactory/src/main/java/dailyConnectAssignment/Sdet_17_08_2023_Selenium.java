@@ -3,7 +3,7 @@ package dailyConnectAssignment;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class selenium_17_08_2023 {
+public class Sdet_17_08_2023_Selenium {
 
 	/*
 	https://leetcode.com/problems/sum-multiples/submissions/
