@@ -13,7 +13,7 @@ public class Sdet_HW_12_09_2023_number_of_lines {
 	#using for loop check the indices of both array if not match increment the count 
 	#return the count
 
-	Time complexity // O(n * log(n))
+	Time complexity // O(n))
 
 	 */
 
